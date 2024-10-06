@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![proj3]()
+![proj3](https://github.com/ldpina/flip-cards/blob/main/proj3.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
